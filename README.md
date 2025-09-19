@@ -1,4 +1,4 @@
-# Spotift Clone
+# Spotify Clone
 
 A modern web application that replicates the core features of Spotify, built using React.js and styled with Tailwind CSS.
 
